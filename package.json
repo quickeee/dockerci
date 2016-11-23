@@ -6,6 +6,7 @@
   "main": "app.js",
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
   "license": "You'd have to be mad to use this in production :-D",
+  "scripts": { "start": "node app.js" },
   "dependencies": {
     "express": "4.8.0",
     "jade": "1.11.0",
